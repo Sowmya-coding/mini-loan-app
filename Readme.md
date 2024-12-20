@@ -65,6 +65,5 @@ This project is open-source and available under the MIT License
 You can access the deployed version of the app (https://miniloanapp.tiiny.site/.)
 
 ## Code Repository
-Find the source code on (https://github.com/sowmyakath115/mini-loan-app.git
-).
+Find the source code on (https://github.com/sowmyakath115/mini-loan-app).
 
